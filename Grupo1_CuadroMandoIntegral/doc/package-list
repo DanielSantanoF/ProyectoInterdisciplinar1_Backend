@@ -1,0 +1,12 @@
+com.salesianostriana.dam.cuadromandointegral
+com.salesianostriana.dam.cuadromandointegral.controladores
+com.salesianostriana.dam.cuadromandointegral.dto
+com.salesianostriana.dam.cuadromandointegral.errores
+com.salesianostriana.dam.cuadromandointegral.files
+com.salesianostriana.dam.cuadromandointegral.model
+com.salesianostriana.dam.cuadromandointegral.model.enums
+com.salesianostriana.dam.cuadromandointegral.procesar
+com.salesianostriana.dam.cuadromandointegral.repositorios
+com.salesianostriana.dam.cuadromandointegral.seguridad
+com.salesianostriana.dam.cuadromandointegral.servicios
+com.salesianostriana.dam.proyecto1_tarea1
